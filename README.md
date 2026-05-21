@@ -67,25 +67,4 @@ Custom Raspberry Pi Pico based flight controller PCB for model rockets and embed
 - Sensor testing
 - Embedded control projects
 
-## PCB
-
-- Designed in KiCad 8
-- 2-layer PCB
-- Black solder mask
-- Compact layout
-
-## Future Improvements
-
-- LoRa telemetry
-- SD card logging
-- Pyro channels
-- Wireless telemetry
-- High-G IMU support
-
-## Repository Structure
-
-```text
-hardware/
-firmware/
-docs/
-README.md
+  
