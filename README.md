@@ -8,7 +8,7 @@ Custom Raspberry Pi Pico based flight controller PCB for model rockets and embed
 ## Schematic
 
 <p align="center">
-  <img src="Screenshot%202026-05-21%20202229.png" width="850">
+  <img src="Images/Screenshot%202026-05-21%20202229.png" width="850">
 </p>
 
 ---
@@ -16,7 +16,7 @@ Custom Raspberry Pi Pico based flight controller PCB for model rockets and embed
 ## PCB Layout
 
 <p align="center">
-  <img src="Screenshot%202026-05-21%20202211.png" width="850">
+  <img src="Images/Screenshot%202026-05-21%20202211.png" width="850">
 </p>
 
 ---
@@ -24,9 +24,9 @@ Custom Raspberry Pi Pico based flight controller PCB for model rockets and embed
 ## Board Views
 
 <p align="center">
-  <img src="Screenshot%202026-05-21%20202656.png" width="32%">
-  <img src="Screenshot%202026-05-21%20202140.png" width="32%">
-  <img src="Screenshot%202026-05-21%20202748.png" width="32%">
+  <img src="Images/Screenshot%202026-05-21%20202656.png" width="32%">
+  <img src="Images/Screenshot%202026-05-21%20202140.png" width="32%">
+  <img src="Images/Screenshot%202026-05-21%20202748.png" width="32%">
 </p>
 ## Features
 
