@@ -3,7 +3,31 @@ Custom Raspberry Pi Pico based Flight Controller PCB designed for model rockets,
 # Rocket Flight Controller
 
 Custom Raspberry Pi Pico based flight controller PCB for model rockets and embedded aerospace systems.
+# Gallery
 
+## Schematic
+
+<p align="center">
+  <img src="Screenshot%202026-05-21%20202229.png" width="850">
+</p>
+
+---
+
+## PCB Layout
+
+<p align="center">
+  <img src="Screenshot%202026-05-21%20202211.png" width="850">
+</p>
+
+---
+
+## Board Views
+
+<p align="center">
+  <img src="Screenshot%202026-05-21%20202656.png" width="32%">
+  <img src="Screenshot%202026-05-21%20202140.png" width="32%">
+  <img src="Screenshot%202026-05-21%20202748.png" width="32%">
+</p>
 ## Features
 
 - RP2040 / Raspberry Pi Pico based
